@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shivam Yadav, and I'm a Full Stack Developer from India.</p>
+<p align="left">My name is Sanjay Kumar Sharma, and I'm a Full Stack Developer from India.</p>
 
 ###
 
